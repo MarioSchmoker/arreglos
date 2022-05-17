@@ -1,0 +1,6 @@
+//let indice = 0;
+
+let num: number[] = [20, 14, 8, 0, 5, 19, 24];
+//console.log(num[]);
+
+for (let indice = 0; indice < 7; indice++) console.log(num[indice]);
